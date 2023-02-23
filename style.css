@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Kenia&display=swap');
+
+.container {
+    border: 4px solid rgba(165, 252, 247, 0.699);
+    width: 90%;
+    height: 44px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 60px;
+    font-size: 20PX;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 5px;
+    /* background-color: rgb(97, 208, 241); */
+    background: url(https://images.unsplash.com/photo-1614850523060-8da1d56ae167?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBjb2xvdXJ8ZW58MHx8MHx8&w=1000&q=80);
+    background-size: cover;
+
+    /* backdrop-filter: blur(100px); */
+    color: rgb(16, 12, 240);
+    box-shadow: 8px 8px 5px rgb(166, 154, 235);
+}
+
+.img {
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border: 4px solid rgb(126, 177, 177);
+    border-radius: 30px;
+    padding-left: 0%;
+    box-shadow: 2px 4px 8px aquamarine;
+}
+
+.paragraph {
+    height: 35%;
+    width: 70%;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 175px;
+    margin-top: 60px;
+    color: rgb(129, 13, 224);
+    word-spacing: 3px;
+    font-family: 'Caveat', cursive;
+    /* text-shadow: 1px 1px rgb(129, 13, 224); */
+
+
+}
+
+body {
+    background-color: rgb(231, 252, 252);
+
+}
+
+.insta {
+    width: 60px;
+
+
+}
+
+.local {
+    display: flex;
+
+}
